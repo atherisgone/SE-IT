@@ -322,8 +322,7 @@ int main()
 				break;
 			case 7:
 				bt.displayLeafNodes(bt.root);
-				break;
-			
+				break;		
 		}
 	}while(ch!=8);
 	return 0;
