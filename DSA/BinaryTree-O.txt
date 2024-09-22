@@ -1,0 +1,203 @@
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 30 
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 60
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 10
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 20
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 70
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 80
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 40
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 90
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 1
+
+Enter data to insert: 50
+
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 2
+
+Enter data to delete: 40
+Node deleted
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 4
+
+Inorder: 10 20 30 50 60 70 80 90 
+=========================
+Preorder: 30 10 20 60 50 70 80 90 
+=========================
+Postorder: 20 10 50 90 80 70 60 30 
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 3
+
+Enter data to search: 70
+70 found
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 5
+
+Depth of the tree: 5
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 7
+20 50 90 
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 6
+
+Inorder display of mirrored tree: 90 80 70 60 50 30 20 10 
+
+1.Insert
+2.Delete
+3.Search
+4.Display tree
+5.Display depth
+6.Display mirror image
+7.Display leaf nodes
+8.Exit.
+Enter your choice: 8

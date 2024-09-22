@@ -1,0 +1,51 @@
+1. Infix to postfix
+2. Infix to prefix
+3. Evaluation of postfix
+4. Evaluation of prefix
+5. Exit
+Enter your choice: 1
+
+ Enter infix expression: (3+4*2)/(1-5)
+
+ Postfix expression is: 342*+15-/
+
+1. Infix to postfix
+2. Infix to prefix
+3. Evaluation of postfix
+4. Evaluation of prefix
+5. Exit
+Enter your choice: 2
+
+ Enter prefix expression: (3+4*2)/(1-5)
+
+ Prefix expression is: /+3*42-15
+
+1. Infix to postfix
+2. Infix to prefix
+3. Evaluation of postfix
+4. Evaluation of prefix
+5. Exit
+Enter your choice: 3
+
+ Enter postfix expression: 342*+15-/
+
+ Value of postfix expression is: -2
+
+1. Infix to postfix
+2. Infix to prefix
+3. Evaluation of postfix
+4. Evaluation of prefix
+5. Exit
+Enter your choice: 4
+
+ Enter prefix expression: /+3*42-15
+
+ Value of prefix expression is: -2
+ 
+1. Infix to postfix
+2. Infix to prefix
+3. Evaluation of postfix
+4. Evaluation of prefix
+5. Exit
+Enter your choice: 5
+

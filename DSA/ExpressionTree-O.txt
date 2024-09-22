@@ -1,0 +1,35 @@
+ 1. Construct an expression tree
+ 2. Recursive Traversals
+ 3. Non- recursive traversal
+ 4. Exit.
+ enter your choice: 1
+
+ enter postfix expression: AB+C*D/E-FG*+
+
+ 1. Construct an expression tree
+ 2. Recursive Traversals
+ 3. Non- recursive traversal
+ 4. Exit.
+ enter your choice: 2
+
+Recursive Traversals:
+
+ inorder: A + B * C / D - E + F * G 
+ preorder + - / * + A B C D E * F G 
+ postorder A B + C * D / E - F G * + 
+ 1. Construct an expression tree
+ 2. Recursive Traversals
+ 3. Non- recursive traversal
+ 4. Exit.
+ enter your choice: 3
+
+Non-Recursive Traversals:
+
+ inorder: A + B * C / D - E + F * G 
+ preorder + - / * + A B C D E * F G 
+ postorder A B + C * D / E - F G * + 
+ 1. Construct an expression tree
+ 2. Recursive Traversals
+ 3. Non- recursive traversal
+ 4. Exit.
+ enter your choice: 4

@@ -1,0 +1,142 @@
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 10
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 20
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 30
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 40
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 50
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 3
+Queue: 
+10->20->30->40->50
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 60
+!!!Overflow!!!
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 3
+Queue: 
+10->20->30->40->50
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 2
+
+Dequeue executed.
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 3
+Queue: 
+20->30->40->50
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 2
+
+Dequeue executed.
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 3
+Queue: 
+30->40->50
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 60
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 1
+
+Enter data to insert: 70
+
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 2
+
+Dequeue executed.
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 3
+Queue: 
+40->50->60->70
+===================================================
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice: 4
