@@ -1,4 +1,3 @@
- 
 enter item to insert: 45
 do you want to insert again? 
 Press 1 for Yes and 0 for No: 1
