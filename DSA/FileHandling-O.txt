@@ -1,0 +1,165 @@
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 1
+
+Enter total students: 5
+
+========
+Enter roll number: 1
+
+Enter name: ABC
+
+Enter division: A
+
+Enter address: XYZ
+
+========
+Enter roll number: 2
+
+Enter name: DEF
+
+Enter division: F
+
+Enter address: UVW
+
+========
+Enter roll number: 3
+
+Enter name: GHI
+
+Enter division: B
+
+Enter address: RST
+
+========
+Enter roll number: 4
+
+Enter name: JKL
+
+Enter division: D
+
+Enter address: OPQ
+
+========
+Enter roll number: 5
+
+Enter name: MNO
+
+Enter division: C
+
+Enter address: LMN
+
+Added all records successfully.
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 2
+
+Roll No Name    Div     Address
+1       ABC     A       XYZ
+2       DEF     F       UVW
+3       GHI     B       RST
+4       JKL     D       OPQ
+5       MNO     C       LMN
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 4
+
+Enter roll number to search: 5
+
+Record Found
+
+Roll No Name    Div     Address
+5       MNO     C       LMN
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 5
+
+Enter roll number to update: 2
+
+========
+Enter roll number: 2
+
+Enter name: DEF
+
+Enter division: E
+
+Enter address: UVW
+
+Record updated
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 2
+
+Roll No Name    Div     Address
+1       ABC     A       XYZ
+2       DEF     E       UVW
+3       GHI     B       RST
+4       JKL     D       OPQ
+5       MNO     C       LMN
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 6
+
+Enter roll number to delete: 4
+
+ Record deleted
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 2
+
+Roll No Name    Div     Address
+1       ABC     A       XYZ
+2       DEF     E       UVW
+3       GHI     B       RST
+5       MNO     C       LMN
+==========
+ 1. Add records
+ 2. Display all records
+ 3. Add new record
+ 4. Search a record
+ 5. Update a record
+ 6. Delete a record
+ 7. Exit
+Enter your choice: 7
