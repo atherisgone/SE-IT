@@ -1,0 +1,152 @@
+nter total students: 15
+
+ Enter student information: 
+ Enter roll number,name and SGPA: 14 Priya 88
+
+ Enter roll number,name and SGPA: 3 Aarav 75
+
+ Enter roll number,name and SGPA: 7 Meera 92
+
+ Enter roll number,name and SGPA: 10 Vikram 60
+
+ Enter roll number,name and SGPA: 1 Sanya  83
+
+ Enter roll number,name and SGPA: 11 Nikhil 47
+
+ Enter roll number,name and SGPA: 5 Ishaan 90
+
+ Enter roll number,name and SGPA: 12 Kavya 71
+
+ Enter roll number,name and SGPA: 8 Harsh 54
+
+ Enter roll number,name and SGPA: 6 Ananya 68
+
+ Enter roll number,name and SGPA: 15 Roahn 79
+
+ Enter roll number,name and SGPA: 4 Divya 85
+
+ Enter roll number,name and SGPA: 9 Arjun 93
+
+ Enter roll number,name and SGPA: 13 Lakshmi 76
+
+ Enter roll number,name and SGPA: 2 Aisha 89
+
+Roll No	Name	SGPA
+14	Priya	88
+3	Aarav	75
+7	Meera	92
+10	Vikram	60
+1	Sanya	83
+11	Nikhil	47
+5	Ishaan	90
+12	Kavya	71
+8	Harsh	54
+6	Ananya	68
+15	Roahn	79
+4	Divya	85
+9	Arjun	93
+13	Lakshmi	76
+2	Aisha	89
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 1
+
+Sorted data according to Roll Numbers:
+
+Roll No	Name	SGPA
+1	Sanya	83
+2	Aisha	89
+3	Aarav	75
+4	Divya	85
+5	Ishaan	90
+6	Ananya	68
+7	Meera	92
+8	Harsh	54
+9	Arjun	93
+10	Vikram	60
+11	Nikhil	47
+12	Kavya	71
+13	Lakshmi	76
+14	Priya	88
+15	Roahn	79
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 2
+
+Sorted data according to Names: 
+
+Roll No	Name	SGPA
+3	Aarav	75
+2	Aisha	89
+6	Ananya	68
+9	Arjun	93
+4	Divya	85
+8	Harsh	54
+5	Ishaan	90
+12	Kavya	71
+13	Lakshmi	76
+7	Meera	92
+11	Nikhil	47
+14	Priya	88
+15	Roahn	79
+1	Sanya	83
+10	Vikram	60
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 3
+
+ Enter SGPA to search: 93
+
+9	Arjun	93
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 4
+
+ Enter name to search: Aisha
+
+ Roll No=2
+ Name=Aisha
+ SGPA=89
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 5
+
+Top ten toppers are:
+
+9	Arjun	93
+7	Meera	92
+5	Ishaan	90
+2	Aisha	89
+14	Priya	88
+4	Divya	85
+1	Sanya	83
+15	Roahn	79
+13	Lakshmi	76
+3	Aarav	75
+1.Bubble Sort (Sorting with roll number)
+2.Insertion Sort (Sorting with name)
+3.Linear Search (Searching based on SGPA)
+4.Binary Search (Searching based on given name)
+5.Quick Sort (Top ten toppers)
+6.Exit
+Enter your choice: 6
