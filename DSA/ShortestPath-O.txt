@@ -1,0 +1,110 @@
+Enter number of cities: 5
+
+Enter names of cities: Red
+Blue
+Green
+Yellow
+Purple
+
+Enter weighted matrix:
+
+Enter distance between Red to Red0
+
+Enter distance between Red to Blue2
+
+Enter distance between Red to Green6
+
+Enter distance between Red to Yellow4
+
+Enter distance between Red to Purple10
+
+Enter distance between Blue to Red2
+
+Enter distance between Blue to Blue0
+
+Enter distance between Blue to Green8
+
+Enter distance between Blue to Yellow7
+
+Enter distance between Blue to Purple2
+
+Enter distance between Green to Red6
+
+Enter distance between Green to Blue8
+
+Enter distance between Green to Green0
+
+Enter distance between Green to Yellow9
+
+Enter distance between Green to Purple12
+
+Enter distance between Yellow to Red4
+
+Enter distance between Yellow to Blue7
+
+Enter distance between Yellow to Green9
+
+Enter distance between Yellow to Yellow0
+
+Enter distance between Yellow to Purple5
+
+Enter distance between Purple to Red10
+
+Enter distance between Purple to Blue2
+
+Enter distance between Purple to Green12
+
+Enter distance between Purple to Yellow5
+
+Enter distance between Purple to Purple0
+
+Weighted Matrix:
+  Red Blue Green Yellow Purple
+Red 0 2 6 4 10
+Blue 2 0 8 7 2
+Green 6 8 0 9 12
+Yellow 4 7 9 0 5
+Purple 10 2 12 5 0
+
+Shortest Path Matrix:
+  Red Blue Green Yellow Purple
+Red 4 2 6 4 4
+Blue 2 4 8 6 2
+Green 6 8 12 9 10
+Yellow 4 6 9 8 5
+Purple 4 2 10 5 4
+
+ 1.One source to one destination Path.
+ 2.One source to all destination.
+ 3.Exit.
+Enter your choice: 1
+
+Enter source and destination: Red Purple
+
+Shortest distance from Red to Purple is: 4       
+
+
+
+
+
+ 1.One source to one destination Path.
+ 2.One source to all destination.
+ 3.Exit.
+Enter your choice: 2
+
+Enter source: Yellow
+
+
+
+
+Shortest distance from Yellow to Red is: 4       
+Shortest distance from Yellow to Blue is: 6      
+Shortest distance from Yellow to Green is: 9     
+Shortest distance from Yellow to Yellow is: 8    
+Shortest distance from Yellow to Purple is: 5
+
+
+ 1.One source to one destination Path.
+ 2.One source to all destination.
+ 3.Exit.
+Enter your choice: 3
