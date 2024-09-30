@@ -114,6 +114,7 @@ class Graph
             }
             do
             {
+                cout<<"\n==================================\n";
                 cout<<"\n1.One source to one destination Path.";
                 cout<<"\n2.One source to all destination.";
                 cout<<"\n3.Exit.";
@@ -166,7 +167,7 @@ int main()
     Graph g;
     g.initalize();
     g.displayWeightedMatrix();
-    g.dijsktra();
+    g.dijkstra();
 
     return 0;
 }
