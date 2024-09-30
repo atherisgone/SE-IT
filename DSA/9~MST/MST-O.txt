@@ -1,0 +1,67 @@
+Enter total department: 5
+
+Enter department names: A B C D E
+
+Enter distance between A and A: 8
+
+Enter distance between A and B: 23
+
+Enter distance between A and C: 73
+
+Enter distance between A and D: 12
+
+Enter distance between A and E: 6
+
+Enter distance between B and A: 24
+
+Enter distance between B and B: 8 
+
+Enter distance between B and C: 17
+
+Enter distance between B and D: 11
+
+Enter distance between B and E: 10
+
+Enter distance between C and A: 9
+
+Enter distance between C and B: 2
+
+Enter distance between C and C: 6
+
+Enter distance between C and D: 45
+
+Enter distance between C and E: 12
+
+Enter distance between D and A: 29
+
+Enter distance between D and B: 21
+
+Enter distance between D and C: 33
+
+Enter distance between D and D: 1
+
+Enter distance between D and E: 4
+
+Enter distance between E and A: 9
+
+Enter distance between E and B: 19
+
+Enter distance between E and C: 20
+
+Enter distance between E and D: 17
+
+Enter distance between E and E: 19
+ A      B       C       D       E
+A8      23      73      12      6
+B24     8       17      11      10
+C9      2       6       45      12
+D29     21      33      1       4
+E9      19      20      17      19
+========================
+Edge:Weight
+
+ A-E:6
+ A-D:12
+ E-B:19
+ B-C:17
+Cost of minimum spanning tree using Prim's: 54
