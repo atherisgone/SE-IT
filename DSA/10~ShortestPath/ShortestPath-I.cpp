@@ -23,7 +23,7 @@ class Graph
             {
                 for(int j=0;j<n;j++)
                 {
-                    cout<<"\nEnter distance between "<<city[i]<<" to "<<city[j];
+                    cout<<"\nEnter distance between "<<city[i]<<" to "<<city[j]<<": ";
                     cin>>w[i][j];
                 }
             }
@@ -67,7 +67,7 @@ class Graph
         }
 
         //=========================================
-        void dijsktra()
+        void dijkstra()
         {
             string source,dest;
             int ch,si,di;
@@ -114,9 +114,9 @@ class Graph
             }
             do
             {
-                cout<<"\n 1.One source to one destination Path.";
-                cout<<"\n 2.One source to all destination.";
-                cout<<"\n 3.Exit.";
+                cout<<"\n1.One source to one destination Path.";
+                cout<<"\n2.One source to all destination.";
+                cout<<"\n3.Exit.";
                 cout<<"\nEnter your choice: ";
                 
                 cin>>ch;
