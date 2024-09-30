@@ -8,55 +8,55 @@ Purple
 
 Enter weighted matrix:
 
-Enter distance between Red to Red0
+Enter distance between Red to Red: 0
 
-Enter distance between Red to Blue2
+Enter distance between Red to Blue: 2
 
-Enter distance between Red to Green6
+Enter distance between Red to Green: 6
 
-Enter distance between Red to Yellow4
+Enter distance between Red to Yellow: 4
 
-Enter distance between Red to Purple10
+Enter distance between Red to Purple: 10
 
-Enter distance between Blue to Red2
+Enter distance between Blue to Red: 2
 
-Enter distance between Blue to Blue0
+Enter distance between Blue to Blue: 0
 
-Enter distance between Blue to Green8
+Enter distance between Blue to Green: 8
 
-Enter distance between Blue to Yellow7
+Enter distance between Blue to Yellow: 7
 
-Enter distance between Blue to Purple2
+Enter distance between Blue to Purple: 2
 
-Enter distance between Green to Red6
+Enter distance between Green to Red: 6
 
-Enter distance between Green to Blue8
+Enter distance between Green to Blue: 8
 
-Enter distance between Green to Green0
+Enter distance between Green to Green: 0
 
-Enter distance between Green to Yellow9
+Enter distance between Green to Yellow: 9
 
-Enter distance between Green to Purple12
+Enter distance between Green to Purple: 12
 
-Enter distance between Yellow to Red4
+Enter distance between Yellow to Red: 4
 
-Enter distance between Yellow to Blue7
+Enter distance between Yellow to Blue: 7
 
-Enter distance between Yellow to Green9
+Enter distance between Yellow to Green: 9
 
-Enter distance between Yellow to Yellow0
+Enter distance between Yellow to Yellow: 0
 
-Enter distance between Yellow to Purple5
+Enter distance between Yellow to Purple: 5
 
-Enter distance between Purple to Red10
+Enter distance between Purple to Red: 10
 
-Enter distance between Purple to Blue2
+Enter distance between Purple to Blue: 2
 
-Enter distance between Purple to Green12
+Enter distance between Purple to Green: 12
 
-Enter distance between Purple to Yellow5
+Enter distance between Purple to Yellow: 5
 
-Enter distance between Purple to Purple0
+Enter distance between Purple to Purple: 0
 
 Weighted Matrix:
   Red Blue Green Yellow Purple
@@ -74,9 +74,10 @@ Green 6 8 12 9 10
 Yellow 4 6 9 8 5
 Purple 4 2 10 5 4
 
- 1.One source to one destination Path.
- 2.One source to all destination.
- 3.Exit.
+==================================
+1.One source to one destination Path.
+2.One source to all destination.
+3.Exit.
 Enter your choice: 1
 
 Enter source and destination: Red Purple
@@ -86,10 +87,10 @@ Shortest distance from Red to Purple is: 4
 
 
 
-
- 1.One source to one destination Path.
- 2.One source to all destination.
- 3.Exit.
+==================================
+1.One source to one destination Path.
+2.One source to all destination.
+3.Exit.
 Enter your choice: 2
 
 Enter source: Yellow
@@ -104,7 +105,8 @@ Shortest distance from Yellow to Yellow is: 8
 Shortest distance from Yellow to Purple is: 5
 
 
- 1.One source to one destination Path.
- 2.One source to all destination.
- 3.Exit.
+==================================
+1.One source to one destination Path.
+2.One source to all destination.
+3.Exit.
 Enter your choice: 3
