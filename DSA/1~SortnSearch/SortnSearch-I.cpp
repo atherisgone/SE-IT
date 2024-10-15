@@ -236,6 +236,7 @@ int main()
 		cout<<"\n4.Binary Search (Searching based on given name)";
 		cout<<"\n5.Quick Sort (Top ten toppers)";
 		cout<<"\n6.Selection Sort (Sorting with SGPA)";
+		cout<<"\n7.Exit";
 		cout<<"\nEnter your choice: ";
 		cin>>ch;
 		switch(ch)
@@ -266,8 +267,9 @@ int main()
 					break;
 			case 6: selectionSort(s,n);
 					break;
+			case 7: break;
 		}
-	}while(ch!=6);
+	}while(ch!=7);
 	return 0;
 }
 		
