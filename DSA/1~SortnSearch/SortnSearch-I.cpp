@@ -267,7 +267,6 @@ int main()
 					break;
 			case 6: selectionSort(s,n);
 					break;
-			case 7: break;
 		}
 	}while(ch!=7);
 	return 0;
