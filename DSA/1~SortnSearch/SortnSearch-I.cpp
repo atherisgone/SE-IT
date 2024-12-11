@@ -19,7 +19,7 @@ void display(struct Student s[30],int n)
 	cout<<"\n";
 }
 //=================================================================
-                                                                                                                                                                                                                     void bubbleSort(struct Student s[30],int n)
+void bubblesort(struct Student s[30],int n)                                                                                                                                                                                                                     void bubbleSort(struct Student s[30],int n)
 {
 	int i,j;
 	int temp;
