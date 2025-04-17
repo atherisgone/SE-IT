@@ -1,5 +1,5 @@
-#include &lt;xc.h&gt;
-#include&lt;pic18f4550.h&gt;
+#include <xc.h>
+#include <pic18f4550.h>
 #define Buzzer LATAbits.LATA5
 unsigned int count=0;
 void interrupt Timer1_ISR(){
@@ -7,7 +7,7 @@ if(TMR1IF==1){
 TMR1L=0x20;
 TMR1H=0xD1;
 count++;
-if(count&gt;=1000){
+if(count>=1000){
 Buzzer=~Buzzer;
 count=0;
 }
