@@ -1,13 +1,13 @@
-#include &lt;xc.h&gt;
-#include&lt;p18f4550.h&gt;
+#include <xc.h>
+#include <p18f4550.h>
 #define LCD_EN LATAbits.LA1
 #define LCD_RS LATAbits.LA0
 #define LCDPORT LATB
 
 void lcd_delay(unsigned int time){
 unsigned int j, i;
-for(i=0; i&lt;time; i++){
-for(j=0; j&lt;100; j++){}
+for(i=0; i<time; i++){
+for(j=0; j<100; j++){}
 }
 }
 
@@ -38,8 +38,8 @@ SendInstruction(0x38); SendInstruction(0x06);
 SendInstruction(0x0C); SendInstruction(0x01);
 SendInstruction(0x80); }
 
-unsigned char* string1=&quot;MicroEmbeded&quot;; unsigned char*
-string2=&quot;PIC Kit&quot;;
+unsigned char* string1="MicroEmbeded" unsigned char*
+string2="PIC Kit"
 
 void main(void) {
 ADCON1=0x0F;
