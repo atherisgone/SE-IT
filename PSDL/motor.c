@@ -1,7 +1,9 @@
-#include <p18f4550.h>
 #include<xc.h>
-unsigned char count = 0;
-bit TIMER,SPEED_UP;
+#include <pic18f4550.h>
+unsigned char count=0;
+
+unsigned char TIMER, SPEED_UP;
+
 
 void timer2Init(void)
 {
@@ -14,6 +16,7 @@ unsigned int i,j;
 for(i=0;i<time;i++);
 for(j=0;j<1000;j++);
 }
+
 
 void main(void) {
 unsigned int i;
@@ -30,13 +33,13 @@ while(1)
 {
 for(i=15;i<150;i++)
 {
-CCPR1L=i;
-delay(100);
+    CCPR1L=i;
+    delay(100);
 }
 for(i=150;i>15;i--)
 {
-CCPR1L=i;
-delay(100);
+    CCPR1L=i;
+    delay(100);
 }
 }
 }
